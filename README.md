@@ -8,7 +8,7 @@ Para utilizar os projetos disponíveis neste repositório, siga os seguintes pas
 
 1. Clone o repositório para a sua máquina utilizando o seguinte comando no seu terminal:
 
-`git clone https://github.com/seu-usuario/repositorio-python.git`
+ `git clone https://github.com/eduardoferreirajaworiwski/projects_python.git`
 
 2. Certifique-se de ter o Python instalado na sua máquina. Caso ainda não o tenha, você pode baixá-lo em [python.org](https://www.python.org/downloads/).
 
@@ -16,11 +16,11 @@ Para utilizar os projetos disponíveis neste repositório, siga os seguintes pas
 
 4. Instale as dependências necessárias utilizando o comando:
 
-`pip install -r requirements.txt`
+ `pip install -r requirements.txt`
 
 5. Execute o projeto utilizando o comando:
 
-`python nome_do_arquivo.py`
+ `python nome_do_arquivo.py`
 
 ## Contribuindo
 
@@ -30,21 +30,21 @@ Se você deseja contribuir com um projeto existente ou adicionar um novo projeto
 
 2. Clone o seu fork para a sua máquina utilizando o seguinte comando no seu terminal:
 
-`git clone https://github.com/seu-usuario/repositorio-python.git`
+ `git clone https://github.com/eduardoferreirajaworiwski/projects_python.git`
 
 3. Crie uma nova branch com o nome da sua feature ou correção utilizando o comando:
 
-`git checkout -b nome-da-sua-branch`
+ `git checkout -b nome-da-sua-branch`
 
 4. Faça as alterações desejadas no projeto.
 
 5. Faça o commit das suas alterações utilizando o comando:
 
-`git commit -m "Mensagem do commit"`
+ `git commit -m "Mensagem do commit"`
 
 6. Envie as suas alterações para o seu fork utilizando o comando:
 
-`git push origin nome-da-sua-branch`
+ `git push origin nome-da-sua-branch`
 
 7. Abra um Pull Request neste repositório para que as suas alterações possam ser analisadas e incorporadas ao projeto principal.
 
